@@ -217,7 +217,7 @@ public class SimulateColorBlindness {
 		}
 		
 		try {
-			File example = new File("projtest.png");
+			File example = new File("protanopia"+delta+".png");
 			ImageIO.write(modifiedImage, "png", example);
 		} catch (IOException e) {
 			System.err.println(e.getMessage());
