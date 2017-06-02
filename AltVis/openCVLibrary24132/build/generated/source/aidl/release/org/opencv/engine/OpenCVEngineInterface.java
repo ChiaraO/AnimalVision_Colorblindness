@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: D:\\EPFL\\no_space\\master2\\comp_photo\\colordeficiencyapp\\Recolorize2\\openCVLibrary24132\\src\\main\\aidl\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
+ * Original file: D:\\EPFL\\no_space\\master2\\comp_photo\\AnimalVision_Colorblindness\\AltVis\\openCVLibrary24132\\src\\main\\aidl\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**
